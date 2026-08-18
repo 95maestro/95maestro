@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a Bachelor of Engineering student in Computer Science, I am passionate about exploring technology and developing innovative solutions. Being a proactive and quick learner, I strive to strengthen my skills in software development and artificial intelligence while creating impactful applications. Committed to growth and continuous learning, I aspire to become a skilled and impactful Computer Science Engineer.
+As a Bachelor of Engineering student in Computer Science, I am passionate about exploring technology and developing innovative solutions. Being a proactive and quick learner, I strive to strengthen my skills in software development and artificial intelligence while creating impactful applications. Committed to growth and continuous learning, I aspire to become a skilled and impactful Software Engineer.
 
 
 ## 🌐 Socials:
